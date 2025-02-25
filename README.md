@@ -12,13 +12,4 @@ Search & Filtering – Quickly find notes using an advanced search feature.<br>
 User Authentication – Secure login using JWT authentication.<br>
 Data Encryption – Ensures notes are stored safely with encryption.<br>
 Auto-Save & Backup – Prevents data loss by automatically saving your notes.<br>
-<h3>🛠️ Tech Stack</h3>
-Frontend: React.js, HTML, CSS, Tailwind<br>
-Backend: Node.js, Express.js<br>
-Database: MongoDB<br>
-Authentication: JWT<br>
-<h3>📂 Installation & Setup</h3>
-Step 1: Download The Zip<br>
-Step 2: Open Folder in VS code<br>
-step 3: Open frontend and run command "npm run dev" in Terminal<br>
-step 4: Open backend and run command "npm run dev" in Terminal<br>
+
